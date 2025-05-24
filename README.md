@@ -18,7 +18,7 @@ The framework uses modern Playwright features:
 - **Page Object Model (POM)** for clean test architecture
 - **Parameterized configuration** via `.env`
 - **Playwright Test Hooks** (beforeAll, beforeEach, etc.)
-- **Browser cross-testing** (Chromium + Firefox or WebKit)
+- **Browser cross-testing** (Chromium + WebKit)
 - **Screenshots on failure or as needed**
 - **Test grouping by feature**
 
