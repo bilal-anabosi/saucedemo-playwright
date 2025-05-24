@@ -34,4 +34,5 @@ TEST_ENV=qa
 
 Here is a sample screenshot from the test run:
 
-![Test Report](./Playwright Test Report.png)
+
+![Playwright Test Report](https://github.com/user-attachments/assets/5aaf30fa-f2bc-4d09-b12a-b9e6cf4dfc3c)
