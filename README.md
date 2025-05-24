@@ -34,4 +34,4 @@ TEST_ENV=qa
 
 Here is a sample screenshot from the test run:
 
-![Test Report Screenshot](./Playwright Test Report.png)
+![Test Report Screenshot](/Playwright Test Report.png)
